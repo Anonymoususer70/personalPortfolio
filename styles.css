@@ -8,6 +8,7 @@ body {
   background-color: #000000;
   font-size: 16px;
   color: white;
+  overflow:overflow-y
 }
 
 /* Color scheme should be white, black, and a pop of color/fun color. */
